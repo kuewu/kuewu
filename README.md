@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **python, javascript and bootstrap, MERN STACK**
 
-- 📫 How to reach me **oseikelvin709@gmail.com**
+- 📫 How to reach me **Kuewupamela@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
