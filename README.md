@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
+<h1 align="center">Hi 👋, I'm Pamela</h1>
 <h3 align="center">A passionate Software developer and Cyber Security</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithkevin&label=Profile%20views&color=0e75b6&style=flat" alt="codewithkevin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kuewu&label=Profile%20views&color=0e75b6&style=flat" alt="kuewu" /> </p>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithkevin" alt="codewithkevin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kuewu" alt="Kuewu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/justcodez" target="blank"><img src="https://img.shields.io/twitter/follow/justcodez?logo=twitter&style=for-the-badge" alt="justcodez" /></a> </p>
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/justcodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1stblackcousin" height="30" width="40" /></a>
-<a href="https://instagram.com/kevvin_black" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevvin_black" height="30" width="40" /></a>
+<a href="https://instagram.com/pamela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Pamela" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc67agzxax7p8d03hut2zfoq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc67agzxax7p8d03hut2zfoq" height="30" width="40" /></a>
   
   
