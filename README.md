@@ -32,12 +32,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuewu&theme=github_dark)
 [![Kevin Stat](https://github-readme-stats.vercel.app/api?username=kuewu&show_icons=true&theme=github_dark)](https://github.com/kuewu)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuewu&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/qbentil)
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kuewu&theme=dracula)  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuewu&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kuewu&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuewu&theme=github_dark)
-[![pamela Stat](https://github-readme-stats.vercel.app/api?username=kuewu&show_icons=true&theme=github_dark)](https://github.com/kuewu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamela&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/qbentil)
+
  
 
 
