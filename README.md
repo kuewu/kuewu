@@ -43,6 +43,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamela&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/qbentil)
  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pamela&theme=dracula)  
+
 
 
