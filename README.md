@@ -31,15 +31,15 @@
 
 </p>
 
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=pamela&theme=dracula&hide_border=true)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=kuewupamela&theme=dracula&hide_border=true)
 
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamela&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamela&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamela&theme=github_dark)
-[![pamela Stat](https://github-readme-stats.vercel.app/api?username=pamela&show_icons=true&theme=github_dark)](https://github.com/pamela)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuewupamela&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kuewupamela&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuewupamela&theme=github_dark)
+[![pamela Stat](https://github-readme-stats.vercel.app/api?username=kuewupamela&show_icons=true&theme=github_dark)](https://github.com/kuewupamela)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamela&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/qbentil)
  
 
